@@ -1,0 +1,41 @@
+:root {
+
+    --black: rgb(0, 0, 0);
+    --white: white;
+    --gray: rgb(104, 100, 100);
+    --green:#940404;
+}
+body{
+    background-color: var(--black);
+}
+
+#nav {
+    background-color: var(--black);
+    margin-top: -4rem;
+}
+
+.nav {
+    color: var(--white);
+
+}
+
+.nav li {
+    text-indent: 10px;
+
+}
+
+@media(max-width:1880px){
+    html{
+        font-size: 14px;
+    }
+}
+@media(max-width:1418px){
+    html{
+        font-size: 14px;
+    }
+}
+@media(max-width:1154px){
+    html{
+        font-size: 14px;
+    }
+}

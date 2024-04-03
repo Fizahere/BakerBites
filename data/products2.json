@@ -1,0 +1,71 @@
+{
+    "cakes":[
+        {"id":1,"name":"Bounty Cake","price":"Rs:1700","image":"/assets/images/cakes1.png","category":"cakes"},
+        {"id":2,"name":"Toffee Three Milk Cake","price":"Rs:1600","image":"/assets/images/cakes2.jpg","category":"cakes"},
+        {"id":6,"name":"Nutella Cake","price":"Rs:1900","image":"/assets/images/cakes6.png","category":"cakes"}
+    ],
+    "biscuits":[
+        {"id":7,"name":"Cake Rusk","price":"Rs:400","image":"/assets/images/bis1.jpg","category":"biscuits"},
+        {"id":13,"name":"Cheesy Bites","price":"Rs:1400","image":"/assets/images/bis7.jpeg","category":"biscuits"},
+        {"id":14,"name":"Chocolate Marble biscuit","price":"Rs:350","image":"/assets/images/bis8.jpg","category":"biscuits"}
+    ],
+    "bread":[
+        {"id":15,"name":"All-Butter Croissant","price":"Rs:170","image":"/assets/images/bread1.jpg","category":"bread"},
+        {"id":21,"name":"Garlic Bread","price":"Rs:240","image":"/assets/images/bread7.jpg","category":"bread"},
+        {"id":22,"name":"Pita Bread","price":"Rs:130","image":"/assets/images/bread8.jpg","category":"bread"}
+    ],
+    "brownies":[
+        {"id":23,"name":"Butterscotch Blondies","price":"Rs:160","image":"/assets/images/brownie1.jpg","category":"brownies"},
+        {"id":26,"name":"Nutella Brownies","price":"Rs:1600","image":"/assets/images/brownie4.jpg","category":"brownies"},
+        {"id":27,"name":"Triple Chocolate Brownie","price":"Rs:1500","image":"/assets/images/brownie5.jpg","category":"brownies"}
+    ],
+    "bunsAndRusk":[
+        {"id":28,"name":"Brioche Burger Buns ( 4 Pcs )","price":"Rs:160","image":"/assets/images/bun1.jpg","category":"buns-and-rusk"},
+        {"id":31,"name":"Garlic Rusk","price":"Rs:160","image":"/assets/images/bun4.webp","category":"buns-and-rusk"},
+        {"id":32,"name":"White Rusk","price":"Rs:110","image":"/assets/images/bun5.webp","category":"buns-and-rusk"}
+    ],
+    "cupCakes":[
+        {"id":33,"name":"Three Milk Cupcake","price":"Rs:210","image":"/assets/images/cupcake1.jpg","category":"cup-cakes"},
+        {"id":37,"name":"Mini Vanilla Cupcake","price":"Rs:1500","image":"/assets/images/cupcake5.jpg","category":"cup-cakes"},
+        {"id":38,"name":"Mini Double Chocolate Cupcake","price":"Rs:1900","image":"/assets/images/cupcake6.webp","category":"cup-cakes"}
+    ],
+    "desserts":[
+        {"id":39,"name":"Chocolate Fudge Cups","price":"Rs:170","image":"/assets/images/dess1.webp","category":"desserts-and-pastry"},
+        {"id":42,"name":"Cookies And Cream Donut","price":"Rs:160","image":"/assets/images/dess4.jpg","category":"desserts-and-pastry"},
+        {"id":43,"name":"Cookies And Cream Donut","price":"Rs:150","image":"/assets/images/dess5.jpg","category":"desserts-and-pastry"}
+    ],
+    "grab":[
+        {"id":44,"name":"Caesar Salad","price":"Rs:340","image":"/assets/images/grab1.webp","category":"grab-and-go"},
+        {"id":48,"name":"Korean Chicken Sliders","price":"Rs:180","image":"/assets/images/grab5.webp","category":"grab-and-go"},
+        {"id":49,"name":"Mexican Chicken Quesadilla","price":"Rs:250","image":"/assets/images/grab6.webp","category":"grab-and-go"}
+    ],
+    "puffs":[
+        {"id":50,"name":"Bakar Khani","price":"Rs:480","image":"/assets/images/puf1.jpg","category":"puffs-and-hi-tea"},
+        {"id":54,"name":"Plain Cakes","price":"Rs:150","image":"/assets/images/puf5.jpg","category":"puffs-and-hi-tea"},
+        {"id":55,"name":"Plain Alaska","price":"Rs:250","image":"/assets/images/puf6.webp","category":"puffs-and-hi-tea"}
+    ],
+    "savoury":[
+        {"id":56,"name":"Chicken And Mushroom Quiche (Slice)","price":"Rs:180","image":"/assets/images/sav1.jpg","category":"savoury"},
+        {"id":60,"name":"Tandoori Chicken Cheese Patties","price":"Rs:100","image":"/assets/images/sav5.jpg","category":"savoury"},
+        {"id":61,"name":"Vegetable Patties","price":"Rs:100","image":"/assets/images/sav6.webp","category":"savoury"}
+    ],
+    "tarts":[
+        {"id":62,"name":"Lotus Cheese Cake Tart","price":"Rs:280","image":"/assets/images/tart1.jpg","category":"tarts-and-cookies"},
+        {"id":66,"name":"Nut Tart","price":"Rs:150","image":"/assets/images/tart5.jpg","category":"tarts-and-cookies"},
+        {"id":67,"name":"Chocolate Chip Cookies","price":"Rs:150","image":"/assets/images/tart6.webp","category":"tarts-and-cookies"}
+    ],
+    "merchandise":[
+        {"id":68,"name":"Lotus Cheese Cake Tart","price":"Rs:280","image":"/assets/images/mug1.jpg","category":"merchandise"},
+        {"id":69,"name":"Salted Caramel And Dark Chocolate Tart","price":"Rs:260","image":"/assets/images/mug2.jpg","category":"merchandise"},
+        {"id":70,"name":"Tiramisu Tart","price":"Rs:50","image":"/assets/images/mug3.jpg","category":"merchandise"},
+        {"id":71,"name":"Chocolate Tart","price":"Rs:150","image":"/assets/images/bag1.jpg","category":"merchandise"},
+        {"id":72,"name":"Nut Tart","price":"Rs:150","image":"/assets/images/bag2.jpg","category":"merchandise"},
+        {"id":73,"name":"Chocolate Chip Cookies","price":"Rs:150","image":"/assets/images/bag3.jpg","category":"merchandise"},
+        {"id":74,"name":"Black Frame+Dark Shades","price":"Rs:150","image":"/assets/images/glass1.jpg","category":"merchandise"},
+        {"id":75,"name":"Transparent Frame+Brown Shades","price":"Rs:150","image":"/assets/images/glass2.jpg","category":"merchandise"},
+        {"id":76,"name":"Full Frame Cat Eye Glasses","price":"Rs:150","image":"/assets/images/glass3.jpg","category":"merchandise"},
+        {"id":77,"name":"Ceramic White Trays","price":"Rs:1500","image":"/assets/images/tray1.jpg","category":"merchandise"},
+        {"id":78,"name":"Aesthetic Wooden Tray","price":"Rs:1000","image":"/assets/images/tray2.jpeg","category":"merchandise"},
+        {"id":79,"name":"Wooden Tray Pair of 4","price":"Rs:2000","image":"/assets/images/tray3.jpg","category":"merchandise"}
+    ]
+}

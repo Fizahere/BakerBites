@@ -1,0 +1,147 @@
+html {
+  scroll-behavior: smooth;
+}
+/* #about {
+  height: auto;
+  background: linear-gradient(
+    to bottom left,
+    rgb(157, 229, 255),
+    rgb(251, 206, 245)
+  );
+} */
+#about .row {
+  padding: 50px 50px;
+}
+#about .row .col-md-12 {
+  box-shadow: 5px 5px 20px rgb(150, 149, 149), -3px -3px 20px rgb(150, 149, 149);
+  background: white;
+  padding: 50px 100px;
+  border-radius: 5px;
+}
+#heada {
+  color: rgb(0, 179, 255);
+}
+/* l-mobile */
+@media screen and (max-width: 425px) {
+  #about .row .col-md-12 {
+    padding: 15px 30px;
+  }
+}
+/*m-mobile*/
+@media screen and (max-width: 375px) {
+  #about .row .col-md-12 {
+    padding: 5px 10px;
+  }
+}
+.newarrival {
+  margin-top: 9px;
+}
+.btn_css {
+  border: none;
+  background-color: white;
+  color: black !important;
+}
+.btn_css:active {
+  border: none;
+}
+/* #arrival {
+  margin-top: 10%;
+} */
+.display {
+  display: flex;
+  justify-content: space-evenly;
+}
+.pd {
+  padding: 2%;
+}
+.zoom:hover {
+  /* -ms-transform: scale(1.2); 
+        -webkit-transform: scale(1.2); */
+  transform: scale(1.1);
+  transition: transform 0.25s;
+  overflow: hidden;
+}
+/* iman's footer css file */
+* {
+  margin: 0;
+  padding: 0;
+}
+.foot {
+  /* background-color: rgba(233, 226, 226, 0.438); */
+  background-color: rgb(31, 29, 29);
+  color: rgb(150, 150, 150);
+  height: auto;
+}
+.subscribe {
+  border: 1px solid black;
+  border-radius: 30px 30px;
+}
+.butt {
+  border-radius: 5px;
+  padding: 0.3rem 1rem;
+}
+
+#fb:hover {
+  transition: 0.9s;
+  transform: translateY(-35%);
+}
+
+#twit:hover {
+  transition: 0.9s;
+  transform: translateY(-35%);
+}
+#insta:hover {
+  transition: 0.9s;
+  transform: translateY(-35%);
+}
+/* #email{
+max-width: max-content;
+
+} */
+.form_c {
+  background-color: rgb(246, 249, 253);
+}
+.un_li a {
+  color: gray;
+  text-decoration: none;
+}
+.unorder_list {
+  list-style-type: none;
+  color: gray;
+}
+.footer_links {
+  text-decoration: none !important;
+  color: gray !important;
+}
+.un_li a:hover {
+  text-decoration: none;
+}
+#cart-container{
+  display: none;
+}
+.cart-cards{
+  display: flex;
+  justify-content: space-evenly;
+  /* height: 30px; */
+  width: 70%;
+
+}
+/* .left{
+  background-color: #a6c1ee;
+  height: 13rem;
+} */
+.right{
+  /* background-color: #fcb416; */
+  height: 10rem;
+  padding-left: 5%;
+}
+.heading-css{
+  background-color: var(--green);
+  padding:3%;
+  color:var(--white);
+  text-align: center;
+  margin-top: 2.5rem !important;
+}
+#about-para{
+  color: var(--gray);
+}
